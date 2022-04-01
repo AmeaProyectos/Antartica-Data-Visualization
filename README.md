@@ -8,3 +8,4 @@ En este repositorio podrás ver todos los descubrimientos y visualizaciones de l
 
 In this repository you will be able to see all the discoveries and visualizations from Antartica made by our volunteers. Make sure to check the [contribution guidelines](https://github.com/AmeaProyectos/Contribution-Guidelines) in case you would like to contribute.
 
+Agrega línea desde el repo que copié
